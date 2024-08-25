@@ -1,0 +1,3 @@
+[submodule "UnityLFramework/Assets/LFramework"]
+	path = UnityLFramework/Assets/LFramework
+	url = git@github.com:LuoStar1024/LFramework.git
